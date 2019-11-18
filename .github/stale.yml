@@ -1,8 +1,0 @@
-daysUntilStale: 30
-daysUntilClose: 1
-exemptLabels:
-  - pinned
-  - security
-staleLabel: wontfix
-markComment: false
-closeComment: false
